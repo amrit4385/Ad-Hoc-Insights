@@ -1,4 +1,4 @@
-# Ad-Hoc-Insights
+Ad-Hoc-Insights
 Company: AtliQ Hardwares
 AtliQ Hardwares is an imaginary leading computer hardware producer in India with a global presence. The company is committed to leveraging data analytics to drive smart, data-informed decisions.
 
@@ -14,7 +14,7 @@ Creating a presentation to showcase these insights, targeting top-level manageme
 My Approach
 Data Extraction with SQL:
 
-Utilized SQL Server to run queries and pull the necessary data.
+Utilized MySQL to run queries and pull the necessary data.
 Data Visualization:
 
 Leveraged Power BI to visualize the output, making the insights clear and compelling.
