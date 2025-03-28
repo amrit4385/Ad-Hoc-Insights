@@ -75,8 +75,8 @@ The dataset contains **9 tables**:
 - **Citation:** LOW – No official reference available.
 
 ### **Data Dictionary & ERD**
-- **[Data Dictionary](https://github.com/amrit4385/Ad-Hoc-Insights/blob/main/Data%20Model/Data%20Dictionary.md)
-- **[Entity Relationship Diagram (ERD)](#)** (Add link here)
+- [Data Dictionary](https://github.com/amrit4385/Ad-Hoc-Insights/blob/main/Data%20Model/Data%20Dictionary.md)
+- [Entity Relationship Diagram (ERD)](https://github.com/amrit4385/Ad-Hoc-Insights/blob/main/Data%20Model/AtliQ%20Hardware%20ERD%20Updated.jpg)
 
 ---
 ## Project Implementation
