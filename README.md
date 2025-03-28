@@ -136,7 +136,7 @@ div_sold_qty_ranking AS (
 SELECT * FROM div_sold_qty_ranking WHERE sold_qty_rank <= 3;
 ```
 
-(Include more queries as needed)
+
 
 ---
 ## Conclusion & Recommendations
